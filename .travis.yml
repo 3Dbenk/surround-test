@@ -26,7 +26,6 @@ language: cpp
 env:
   global:
     - addon_id=adsp.freesurround
-
 #
 # Define the build matrix
 #
